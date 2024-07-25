@@ -1,0 +1,6 @@
+[2023-7-12 04:53:41] layer "pngwing.com (59)": Expected end of input but "(" found.
+[2023-7-12 04:53:41] layer "pngwing.com (59) copy": Expected end of input but "(" found.
+[2023-7-12 04:53:41] layer "pngwing.com (59) copy 2": Expected end of input but "(" found.
+[2023-7-12 04:53:41] layer "pngwing.com (59) copy 3": Expected end of input but "(" found.
+[2023-7-12 04:53:41] layer "pngwing.com (59) copy 4": Expected end of input but "(" found.
+[2023-7-12 04:53:41] layer "pngwing.com (59) copy 5": Expected end of input but "(" found.

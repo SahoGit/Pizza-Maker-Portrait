@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849443743508",
+    "project_id": "pizza-maker-pg-pot",
+    "storage_bucket": "pizza-maker-pg-pot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849443743508:android:acb41c379ceb323577c401",
+        "android_client_info": {
+          "package_name": "com.pd.pizzamaker.restaurantgames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk0TiR2X6vClpp7XuIvT4ML1BDmgsfNx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
